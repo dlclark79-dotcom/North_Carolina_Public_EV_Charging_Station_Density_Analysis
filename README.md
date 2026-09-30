@@ -43,10 +43,13 @@ $$\text{Stations per 1,000 Residents} = \left( \frac{\text{ZIP Code Station Coun
 Looking at North Carolina overall (10,439,413 residents and 90 public stations in this dataset), the statewide average is very low on a per-capita basis. 
 
 When comparing individual ZIP codes against the state average:
-* **ZIP codes with higher relative density:** `27964`, `27601`, and `27959` showed higher proportions of stations relative to their population base.
+* **ZIP codes with higher relative density:** Highlighted in blue, 
+`27964`, `27601`, and `27959` showed higher proportions of stations relative to their population base.
 * **ZIP codes with lower relative density:** Highlighted red on the map (Figure 1), `28078`, `27519`, and `28025` represent areas where station availability lags behind local population size.
 
-*(Insert Figure 1 Image Here)*
+<img width="1443" height="847" alt="Figure 1" src="https://github.com/user-attachments/assets/c17d20bf-d53b-4918-8749-4898943d341a" />
+Figure 1.png
+
 
 ---
 
